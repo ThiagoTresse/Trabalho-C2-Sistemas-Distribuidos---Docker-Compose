@@ -1,0 +1,20 @@
+# Ignorar o diretório db
+db/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar o diretório de saída do Docker
+docker-output/
+
+# Ignorar configurações do ambiente local
+.env
+
+# Ignorar diretórios e arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações do editor
+.vscode/
+.idea/
+*.swp
